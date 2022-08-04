@@ -1,0 +1,2 @@
+
+int secondScan(FILE *, symPtr);

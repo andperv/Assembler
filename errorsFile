@@ -1,0 +1,33 @@
+  ;dfhjytyht
+add r2,STR,r3
+   :jkghlkjk
+SYMBOL:
+.data 8881399999887
+sub r1,	 ,r4
+Sub r1,r4
+inc 
+bne L3,TR
+jmp #7
+END: stop r5
+sub #8
+inc  #1
+and  x,y
+cmp  r1,,r2
+add  #1,r1,r2
+prn r1 qwe
+cmp  #xyz,r1
+1label:   sub r1,r7
+lea  r3,r1
+lea  #3,r5
+stop now
+.data   1, ,3
+.data   #544444444
+.data   1.5
+stop:.data 5
+r1:     .data   5
+.string blabla
+.strIng "abcdef" 
+.data 6,--9,15,7.2
+
+
+
